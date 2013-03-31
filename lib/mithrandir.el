@@ -92,7 +92,7 @@
      (term-color-magenta ((t (:background "magenta3" :foreground "magenta3"))))
      (term-color-red ((t (:background "red3" :foreground "red3"))))
      (term-color-white ((t (:background "white" :foreground "white"))))
-     (term-color-yellow ((t (:background "yellow3" :foreground "yellow3"))))
+     (term-color-yellow ((t (:background "DarkGoldenRod" :foreground "DarkGoldenRod"))))
      ))
   )
 
